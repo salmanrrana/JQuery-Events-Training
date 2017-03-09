@@ -14,5 +14,5 @@ if ( $("h1").text() === "Go!" ){
 } else {
   console.log( 'Can you make it say "Go!"?' );
 }
-// I moved the curly bracket and bracket to the bottom of the function in order for the DOM to be ready to change?
+// I moved the curly bracket, bracket, and semicolon to the bottom of the function in order for the DOM to be ready to change?
 });
